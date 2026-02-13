@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="#">
   <img src="https://img.shields.io/badge/Portfolio-FF6F00?style=for-the-badge&logo=firefox-browser&logoColor=white" />
 </a>
 
@@ -39,17 +39,18 @@
 YOUR_SHORT_INTRODUCTION_PARAGRAPH
 
 Example:
-Passionate Full Stack Developer specializing in scalable backend systems.
-Love building efficient applications and exploring AI/ML integration.
+Motivated Full Stack Developer focused on Python and Django. I love learning
+new technologies, collaborating on projects, and turning ideas into
+functional web applications.
 
 ---
 
 ## 🛠️ Tech Stack & Skills
 
 ### 🔥 Programming Languages
-• Language 1  
-• Language 2  
-• Language 3  
+•  Python 
+•   
+•   
 
 ### 🚀 Backend
 • Framework 1  
